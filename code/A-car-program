@@ -9,7 +9,7 @@
 command = ""
 car_on = False
 car_stopped = False
-while command != 'quit' :
+while command True:
     command = input("> ").lower()
     if command == 'help':
         print('''
