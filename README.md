@@ -34,4 +34,5 @@ quit- to exit
         break
     else: print("I don't understand that... please try it again")
 ````
-
+# How it shoud look
+[!alt outcome](https://github.com/usnaim/Python-/issues/1)
